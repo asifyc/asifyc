@@ -1,7 +1,7 @@
 
 ### 👋 Hi there 
 
-I am a design minded Software Developer having experience as Flutter Developer - Android/IOS 👨‍💻.<br>
+Asif is a design minded Software Developer having experience as Flutter Developer - Android/IOS 👨‍💻.<br>
 Expressive and organized code is my thing.
 
 - 🔭 Currently Developing mobile applications for Android & IOS with Flutter.
