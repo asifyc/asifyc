@@ -1,7 +1,7 @@
 
 ### 👋 Hi there 
 
-I am a design minded Software Developer having 2+ years of experience as Flutter Developer - Android/IOS 👨‍💻.
+I am a design minded Software Developer having experience as Flutter Developer - Android/IOS 👨‍💻.<br>
 Expressive and organized code is my thing.
 
 - 🔭 I’m currently Developing mobile applications for Android & IOS with flutter.
