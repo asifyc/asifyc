@@ -10,5 +10,5 @@ Expressive and organized code is my thing.
 
 #### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/techieasif/)
-😈[Personal Github Account](https://github.com/techieasif)
+😈[techieasif (Personal Github Account)](https://github.com/techieasif)
 
